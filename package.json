@@ -1,0 +1,26 @@
+{
+  "name": "happynlw3",
+  "version": "1.0.0",
+  "description": "Aplicativo Web para incentivar e facilitar a visitação à crianças em orfanatos.\r  Feito no evento Next Level Week #3 da Rocketseat.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacMuniz/Happy--NLW3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaacMuniz/Happy--NLW3/issues"
+  },
+  "homepage": "https://github.com/isaacMuniz/Happy--NLW3#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "nodemon": "^2.0.5",
+    "sqlite-async": "^1.1.0"
+  }
+}
